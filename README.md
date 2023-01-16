@@ -13,13 +13,15 @@ and its depth as shown in Fig. 2:[Object dimension detection in an image](https:
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/84389082/212613466-abcb8bf3-4f70-40ad-aa8a-327a825c251d.jpg" /><br>
-  <b>Fig. 1:  Portrait mode</b>
+  <b>Fig. 1:  Portrait mode</b><br>
+  (Source: https://www.psdstack.com/photoshop-tutorials/basic/depth-blur-filter)
 </p>
 
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/84389082/212614651-b8a30d7f-806f-43e8-be54-a028f54bac56.png" /><br>
-  <b>Fig. 2:  Object dimension detection in an image</b>
+  <b>Fig. 2:  Object dimension detection in an image</b><br>
+  (Source: https://in.mathworks.com/help/vision/ug/camera-calibration.html)
 </p>
 
 
@@ -50,3 +52,5 @@ c) The non-rigid camera component can move and will change the calibration param
   <img src="https://user-images.githubusercontent.com/84389082/212615267-c678d5a4-2e7b-4c23-be8c-6765225aa66d.jpg" /><br>
   <b>Fig. 3c: Change in camera parameter due to non-rigid camera component</b>
 </p>
+
+(Fig. 3[a,b,c] Source : A. Hagemann, M. Knorr, and C. Stiller, “Modeling dynamic target deformation in camera calibration,” in Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision (WACV), January 2022, pp. 1747–1755.)
