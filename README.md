@@ -8,7 +8,7 @@ For 3D measurements and several other applications monocular and multi-camera ca
 Camera Calibration refers to the estimation of intrinsic camera parameters like focal length (principal point), the skew of a CCD array, and extrinsic camera parameters
 which account for the relative position of a camera with respect to a world coordinate system. This needs a calibration pattern (e.g. checkerboard pattern). On the other
 hand, dynamic camera calibration is carried out with real 3D scene images with dense features at varying depths. Nowadays there is a trend of a multi-camera system in
-consumer devices with functionality like portrait mode (depth-based background blur in an image see Fig. Portrait mode(https://user-images.githubusercontent.com/84389082/212613466-abcb8bf3-4f70-40ad-aa8a-327a825c251d.jpg)), applications like an estimation of a dimension of an object
+consumer devices with functionality like portrait mode (depth-based background blur in an image see Fig. [Portrait mode](https://user-images.githubusercontent.com/84389082/212613466-abcb8bf3-4f70-40ad-aa8a-327a825c251d.jpg), applications like an estimation of a dimension of an object
 and its depth as shown in Fig. Object dimension detection in an image.
 
 ![depthBlur](https://user-images.githubusercontent.com/84389082/212613466-abcb8bf3-4f70-40ad-aa8a-327a825c251d.jpg)
