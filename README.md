@@ -13,9 +13,10 @@ and its depth as shown in Fig. 2:[Object dimension detection in an image](https:
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/84389082/212613466-abcb8bf3-4f70-40ad-aa8a-327a825c251d.jpg" />
+  Fig. 1:  Portrait mode
 </p>
 
-Fig. 1:  Portrait mode
+
 
 ![App_CamCal](https://user-images.githubusercontent.com/84389082/212614651-b8a30d7f-806f-43e8-be54-a028f54bac56.png)
 Fig. 2:  Object dimension detection in an image
