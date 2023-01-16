@@ -11,5 +11,6 @@ hand, dynamic camera calibration is carried out with real 3D scene images with d
 consumer devices with functionality like portrait mode (depth-based background blur in an image see Fig. 1.1), applications like an estimation of a dimension of an object
 and its depth as shown in Fig. 1.2.
 
-![depthBlur](https://user-images.githubusercontent.com/84389082/212613466-abcb8bf3-4f70-40ad-aa8a-327a825c251d.jpg)
+![depthBlur](https://user-images.githubusercontent.com/84389082/212613466-abcb8bf3-4f70-40ad-aa8a-327a825c251d.jpg | Hello World)
+
 
