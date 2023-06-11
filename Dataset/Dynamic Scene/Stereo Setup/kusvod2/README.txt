@@ -9,7 +9,4 @@ http://www.cs.unc.edu/~marc/
 http://cmp.felk.cvut.cz/projects/is3d/
 http://cmp.felk.cvut.cz/~cechj/SCV/
 
-Correspondences were annotated manually on zoomed-in images. Then they were
-checked by several homographies with high RANSAC score and corrected if
-necessary.
-
+Correspondences were annotated manually on zoomed-in images. Then they were checked by several homographies with high RANSAC score and corrected if necessary.
