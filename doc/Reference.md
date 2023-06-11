@@ -60,7 +60,7 @@ vol. 60, p. 91–110, 2004.
 
 [29] H. Hirschmuller and D. Scharstein, “Evaluation of cost functions for stereo matching,” in 2007 IEEE Conference on Computer Vision and Pattern Recognition, 2007, pp. 1–8.
 
-[30] D. Scharstein and R. Szeliski, “High-accuracy stereo depth maps using structured light,” in 2003 IEEE Computer Society Conference on Computer Vision and Pattern Recognition, 2003. Proceedings., vol. 1, 2003, pp. I–I.
+[30] D. Scharstein and R. Szeliski, “High-accuracy stereo depth maps using structured light,” in 2003 IEEE Computer Society Conference on Computer Vision and Pattern Recognition, 2003. Proceedings., vol. 1, 2003.
 
 [31] T. Schöps, T. Sattler, and M. Pollefeys, “BAD SLAM: Bundle adjusted direct RGB-D SLAM,” in Conference on Computer Vision and Pattern Recognition (CVPR), 2019.
 
