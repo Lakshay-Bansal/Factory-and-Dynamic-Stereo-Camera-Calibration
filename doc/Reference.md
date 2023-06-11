@@ -2,7 +2,7 @@
 
 [1] A. Kumar, M. Gururaj, K. Seshadrinathan, and R. Narayanswamy, “Multicapture dynamic calibration of multi-camera systems,” in 2018 IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW), 2018, pp. 1924–19 248.
 
-[2] Y. Chen, Y. Chen, and G. Wang, “Bundle adjustment revisited,” 2019, arXiv:1912.03858. \n
+[2] Y. Chen, Y. Chen, and G. Wang, “Bundle adjustment revisited,” 2019, arXiv:1912.03858. 
 
 [3] C. Kurz, T. Thormählen, and H.-P. Seidel, “Bundle adjustment for stereoscopic 3d,” in Computer Vision/Computer Graphics Collaboration Techniques, A. Gagalowicz and W. Philips, Eds. Berlin, Heidelberg: Springer Berlin Heidelberg, 2011, pp. 1–12.
 
