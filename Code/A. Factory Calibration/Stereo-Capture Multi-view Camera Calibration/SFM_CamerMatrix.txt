@@ -1,0 +1,21 @@
+________________________________________________________________________________________________________________________________________________________________________
+Note: Due to a misunderstanding of the camera center, I obtained incorrect values for P_l and P_r in each stereo pair view. As a consequence, the common 3D points after performing bundle adjustment (BA) are inaccurate, leading to incorrect reprojected corners as well.
+
+
+# As writing P_l = K [R_l -R_l t_L], this is not correct because
+# Correct P_l = K [R_l -R_l C], where C is the camera centre defined as C = -R_L^-1 t_L
+# Hence correct P_l = K [R_l -R_l -R_L^-1 t_L] = K [R_l t_l]
+# So the implementation in main.py is correct implementation 
+
+
+
+# As writing P_r = K [R -Rt]|R_l -R_l t_L|
+#                           | 0    1     |, this is not correct because
+# Correct P_r = K [R -R C]|R_l -R_l C_L|
+#                        | 0    1  |, where 
+# C is the camera centre defined as C = -R^-1 T and C_L = -R_L^-1 t_L
+# Hence correct P_l = K [R T] |R_l t_L|
+#                             | 0    1|
+# So the implementation in main_by K E_v2.py is correct implementation
+
+# R_r is obatined by the R and T of the camera setup on the R_l_1
