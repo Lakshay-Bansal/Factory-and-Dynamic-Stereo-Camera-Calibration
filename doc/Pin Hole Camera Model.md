@@ -5,15 +5,17 @@ rays are passed through the pinhole’s center before being imaged on the screen
 pinhole camera does not have a lens. To accurately represent a real camera, the full camera model used by the algorithm of camera calibration includes radial and
 tangential lens distortion. Usually, in the full camera model, only radial distortion is considered as shown in Fig. 3.2.
 
+<p align="center">
+  <img src="https://github.com/Lakshay-Bansal/Dynamic-Stereo-Camera-Calibration/assets/84389082/5a6927f8-1733-4e57-9da0-e1a44b80f237.png" /><br>
+  <b>Fig. 3.1: Pin hole camera model</b><br>
+  Source: https://in.mathworks.com/help/vision/ug/camera-calibration.html
+</p>
 
-Fig. 3.1: Pin hole camera model
-Source: https://in.mathworks.com/help/vision/ug/camera-calibration.html
-
-
-Fig. 3.2: Radial distortion due to lens
-Source: https://in.mathworks.com/help/vision/ug/camera-calibration.html
-
-
+<p align="center">
+  <img src="https://github.com/Lakshay-Bansal/Dynamic-Stereo-Camera-Calibration/assets/84389082/cf7d1d8a-192b-4af3-84bb-8298fbea9eed.png" /><br>
+  <b>Fig. 3.2: Radial distortion due to lens</b><br>
+  Source: https://in.mathworks.com/help/vision/ug/camera-calibration.html
+</p>
 
 As shown in Fig. 3.3, the point P (Xw, Yw, Zw) in world coordinate is transformed to (Xc, Yc, Zc) from the reference frame of camera coordinate system by applying
 rotation and translation to the world point (see Eq. 3.1). R (rotation matrix), is a 3 × 3 matrix and T (translation matrix) is a 3 × 1 matrix.
