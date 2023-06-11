@@ -54,3 +54,13 @@ c) The non-rigid camera component can move and will change the calibration param
 </p>
 
 Fig. 3[a,b,c] Source : A. Hagemann, M. Knorr, and C. Stiller, “Modeling dynamic target deformation in camera calibration,” in Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision (WACV), January 2022, pp. 1747–1755.
+
+# Web-App
+
+The stereo bundle adjustment on the 3D points points obtained from 3D triangulation of matched features of the stereo pair images of all views can be seen in action on https://lakshay-bansal-webapp-dynamic-stereo-camera-calibra-home-untgaa.streamlit.app/Stereo-capture_Multi-view_Camera_Factory_Calibration.
+
+Home page: https://lakshay-bansal-webapp-dynamic-stereo-camera-calibra-home-untgaa.streamlit.app/
+
+GitHub repository of Web-App is available at following link:
+
+https://github.com/Lakshay-Bansal/Webapp-Dynamic-Stereo-Camera-Calibration
